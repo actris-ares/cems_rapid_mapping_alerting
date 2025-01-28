@@ -26,6 +26,5 @@ CEMS Rapid Mapping portal: https://rapidmapping.emergency.copernicus.eu/backend/
 
 As soon as possible, we will integrate other information related to the description of the script.  
 
-Contact:
-Ermann Ripepi
-ermann.ripepi@cnr.it
+Contact:  
+Ermann Ripepi - ermann.ripepi@cnr.it
