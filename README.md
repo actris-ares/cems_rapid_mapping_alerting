@@ -28,5 +28,5 @@ As soon as possible, we will integrate other information related to the descript
 
 Contact:  
 ACTRIS-ARES DC Unit  
-Ermann Ripepi - ermann.ripepi@cnr.it
+Ermann Ripepi - ermann.ripepi@cnr.it  
 Michele Volini - michele.volini@cnr.it
