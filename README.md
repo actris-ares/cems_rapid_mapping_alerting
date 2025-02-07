@@ -27,5 +27,6 @@ CEMS Rapid Mapping portal: https://rapidmapping.emergency.copernicus.eu/backend/
 As soon as possible, we will integrate other information related to the description of the script.  
 
 Contact:  
-ACTRIS-ARES DC Unit
+ACTRIS-ARES DC Unit  
 Ermann Ripepi - ermann.ripepi@cnr.it
+Michele Volini - michele.volini@cnr.it
