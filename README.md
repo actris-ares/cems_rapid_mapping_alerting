@@ -47,7 +47,7 @@ The script will check the webpage for new wildfire events every 10 minutes and s
 - main(): The main function that performs the periodic check for new events.
 
 # License
-This project is licensed under the MIT License.
+GNU General Public License v3.0.
 
 # This is an alert example:
 
