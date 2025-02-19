@@ -3,10 +3,10 @@
 This Python script detects if there is a new WildFire event on the CEMS Rapid Mapping portal and sends an email containing the following information:  
 
 # Prerequisites
-Python 3.x
-pandas library
-netCDF4 library
-requests library
+Python 3.x  
+pandas library  
+netCDF4 library  
+requests library  
 BeautifulSoup library  
 
 You can install the required libraries using pip:
