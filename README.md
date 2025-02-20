@@ -1,3 +1,5 @@
+# The provided script is no longer working because the structure of the CEMS backend has changed. We will release a new version of the script shortly.  
+
 # CEMS Rapid Mapping alerting code
 
 This Python script detects if there is a new WildFire event on the CEMS Rapid Mapping portal and sends an email containing the following information:  
