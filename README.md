@@ -58,7 +58,8 @@ main(): Main function to perform the periodic check.
 GNU General Public License v3.0.
 
 # Acknowledgments:  
-Copernicus Emergency Management Service (CEMS) for providing the API.
+Copernicus Emergency Management Service (CEMS) for providing the API.  
+https://emergency.copernicus.eu/
 
 # Contact:  
 Consiglio Nazionale delle Ricerche - Istituto di Metodologie per l'Analisi Ambientale (CNR-IMAA)
